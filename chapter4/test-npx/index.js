@@ -10,5 +10,5 @@ function getRamdomInt(
 
 console.log(
     getRamdomInt
-    (10,20);
-)
+    (10,20)
+);
